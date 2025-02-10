@@ -1,4 +1,4 @@
-package Java_DSA.soarting;
+package Java_DSA.sorting;
 
 public class selection_sort {
 

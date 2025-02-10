@@ -1,4 +1,4 @@
-package Java_DSA.soarting;
+package Java_DSA.sorting;
 
 //buble sort       time complexity = O(n^2)
 public class buble_sort {
